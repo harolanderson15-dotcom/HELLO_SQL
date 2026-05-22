@@ -1,1 +1,1 @@
-# -HELLO_SQL
+# HELLO_SQL
